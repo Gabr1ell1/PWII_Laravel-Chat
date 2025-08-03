@@ -8,5 +8,7 @@
 - Diferente do HTTP tradicional, mantém uma conexão persistente.
 - Ideal para aplicações de chat, jogos online e painéis de monitoramento.
 
+# Simulação de uma conversa no Chat
 
-<img width="1917" height="277" alt="image" src="https://github.com/user-attachments/assets/014edfaf-c814-484d-8a77-4bde806ae0b5" />
+<img width="956" height="277" alt="image" src="https://github.com/user-attachments/assets/c6b3bff3-f55d-492b-aa7c-2db53867a8bb" />
+<img width="957" height="277" alt="image" src="https://github.com/user-attachments/assets/ecdf8724-8f36-452f-8c31-1147f04392c8" />
