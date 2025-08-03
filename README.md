@@ -10,6 +10,6 @@
 
 # Simulação de uma conversa no Chat
 
-<img width="950" height="277" alt="image" src="https://github.com/user-attachments/assets/ecdf8724-8f36-452f-8c31-1147f04392c8" />
+<img width="950" height="270" alt="image" src="https://github.com/user-attachments/assets/ecdf8724-8f36-452f-8c31-1147f04392c8" />
 
-<img width="950" height="277" alt="image" src="https://github.com/user-attachments/assets/c6b3bff3-f55d-492b-aa7c-2db53867a8bb" />
+<img width="950" height="270" alt="image" src="https://github.com/user-attachments/assets/c6b3bff3-f55d-492b-aa7c-2db53867a8bb" />
